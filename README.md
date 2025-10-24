@@ -1,4 +1,4 @@
-# patron_iterator
+# Iterator
 
 Descripciín basisca de su Proyecto de POO ...
 
